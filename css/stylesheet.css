@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Cormorant Garamond';
+    src: url('CormorantGaramond-Bold.woff2') format('woff2'),
+        url('CormorantGaramond-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fira Sans Condensed';
+    src: url('FiraSansCondensed-ExtraLight.woff2') format('woff2'),
+        url('FiraSansCondensed-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cormorant Garamond';
+    src: url('CormorantGaramond-Italic.woff2') format('woff2'),
+        url('CormorantGaramond-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cormorant Garamond';
+    src: url('CormorantGaramond-Light.woff2') format('woff2'),
+        url('CormorantGaramond-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pacifico';
+    src: url('Pacifico-Regular.woff2') format('woff2'),
+        url('Pacifico-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

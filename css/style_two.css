@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+* {
+    margin: 0 auto;
+    width: 810px;
+    box-sizing: border-box;
+}
+
+ul {
+    height: 116px;
+    margin-left: 30px;
+    margin-bottom: 24px;
+}
+
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    display: block;
+    font-size: 16px;
+    line-height: 160%;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.header {
+    height: 120px;
+    margin-bottom: 90px;
+}
+
+.header-text {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+}
+
+.image {
+    margin: 0 0 60px 0;
+}
+
+.attention {
+    height: 90px;
+    margin-bottom: 24px;
+}
+
+.attention-text {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%;
+}
+
+.text {
+    height: 182px;
+    margin: 0 0 48px 0;
+}
+
+.text-one {
+    margin-bottom: 20px;
+}
+
+.att {
+    height: 120px;
+    margin-left: 30px;
+    margin-bottom: 48px;
+}
+
+.three {
+    margin-bottom: 24px;
+}
+
+.end {
+    height: 104px;
+    margin: 0 0 212px 0;
+}
